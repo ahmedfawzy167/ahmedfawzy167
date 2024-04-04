@@ -1,16 +1,39 @@
-### Hi there 👋
+<h1 align="left">Hi👋 I'm Ahmed Mohamed Fawzy</h1>
 
-<!--
-**ahmedfawzy167/ahmedfawzy167** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h1 align="left">About me</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">My journey as a developer began with a strong interest in problem-solving and a love for clean, efficient code. Over the years, I have worked on numerous projects where I leveraged the power of Laravel to deliver high-quality solutions to clients.<br><br>I have a deep understanding of Laravel's architecture, its powerful features, and best practices. From designing and implementing RESTful APIs to developing complex database structures, I am well-versed in Laravel's capabilities. I take pride in writing modular, maintainable code that adheres to industry standards and follows SOLID principles.<br><br>In addition to Laravel, I am proficient in other backend technologies such as PHP, MySQL, and Git. I have experience integrating third-party APIs, implementing authentication and authorization systems, and optimizing application performance.</h2>
+
+###
+
+<p align="left"></p>
+
+###
+
+<h2 align="left"></h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
+
+###
