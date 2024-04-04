@@ -1,5 +1,4 @@
-<h1 align="center">Hi👋 I'm Ahmed Mohamed Fawzy</h1>
-
+<h1 align="center"><span style="color: blue; font-family: Arial, sans-serif;">Hi👋 I'm Ahmed Mohamed Fawzy</span></h1>
 ###
 
 <h1 align="center">About me</h1>
