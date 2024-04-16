@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋 I'm Ahmed Mohamed Fawzy</span></h1>
-<h1 align="center">Junior Backend Developer</h1>
+<h1 align="center">Junior PHP|Laravel Backend Web Developer</h1>
 
 <h2 align="left">My journey as a developer began with a strong interest in problem-solving and a love for clean, efficient code. Over the years, I have worked on numerous projects where I leveraged the power of Laravel to deliver high-quality solutions to clients.<br><br>I have a deep understanding of Laravel's architecture, its powerful features, and best practices. From designing and implementing RESTful APIs to developing complex database structures, I am well-versed in Laravel's capabilities. I take pride in writing modular, maintainable code that adheres to industry standards and follows SOLID principles.<br><br>In addition to Laravel, I am proficient in other backend technologies such as PHP, MySQL, and Git. I have experience integrating third-party APIs, implementing authentication and authorization systems, and optimizing application performance.</h2>
 
