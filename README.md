@@ -1,3 +1,6 @@
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmed-fawzy-5a525926a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">LINKEDIN</a>
+</p>
 <h1 align="center">Hi👋 I'm Ahmed Mohamed Fawzy</span></h1>
 <h1 align="center">Junior PHP|Laravel Backend Web Developer</h1>
 
