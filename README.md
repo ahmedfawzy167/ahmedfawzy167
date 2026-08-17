@@ -1,7 +1,11 @@
 <h1 align="center">Hi👋 I'm Ahmed Mohamed Fawzy</span></h1>
 <h1 align="center">Backend Developer PHP | Laravel</h1>
 
-<h4 align="left">My journey as an engineer began with a strong interest in problem-solving and a love for clean, efficient code. I have worked on Various Projects where I leveraged the power of Laravel to deliver high-quality solutions to clients.<br><br>I have a deep understanding of Laravel's architecture, its powerful features, and best practices. From designing and implementing RESTful APIs to developing complex database structures, I am well-versed in Laravel's capabilities. I take pride in writing modular, maintainable code that adheres to industry standards and follows SOLID principles.<br><br>In addition to Laravel, I am proficient in other backend technologies such as PHP, MySQL. I have experience integrating third-party APIs, implementing Authentication and Authorization Mechanisms, and optimizing application performance.</h4>
+<h4 align="left">I’m a Backend Developer Specializing in PHP and Laravel with a strong foundation in Software Architecture, core programming concepts, and industry best practices. I specialize in Building Scalable, secure, and Reliable systems that align with real Business Needs.
+
+I have hands-on experience in designing RESTful APIs, structuring efficient databases, and delivering clean, maintainable code. I focus on writing modular, well-organized solutions following modern Software Engineering principles.
+
+I have a strong interest in System Design and continuously strive to enhance code quality, scalability, and performance while staying up to date with modern development practices.</h4>
 
 ###
 
